@@ -10,4 +10,9 @@
     tools:showIn="@layout/activity_detail">
 
 
+    <TextView
+        android:id="@+id/txtDetail"
+        android:text="Hello World!"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </RelativeLayout>
